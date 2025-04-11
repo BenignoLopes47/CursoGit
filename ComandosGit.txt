@@ -1,0 +1,76 @@
+$git config --global user.name "Benigno Lopes"   Configuração do utilizador
+
+$git config --global user.email "benigno.lopes@sapo.pt"    Configuração do email
+
+$pwd   Mostra o caminho do diretório atual
+
+$cd ..   Muda de diretório
+
+Ctrl + L   Limpa a tela
+
+$mkdir <nome do diretorio>  Cria um diretório
+
+$ls    Visualiza conteúdo da pasta atual
+$ls -l Dá a informação completa do arquivo
+
+$git init .  Para iniciar o repositório no diretório atual (O ponto significa atual)
+
+$touch <nome do arquivo>   Cria um arquivo
+
+$git status   Mostra o estado do(s) arquivo(s)
+
+$git add <nome do arquivo> ou $git add .  Para adicionaro arquivo ou todos os arquivos
+
+$git commit -m "mensagem"  Comita o arquivo   
+
+$git log  Mostra as informações do comite realizadas  $git log <nome do arquivo>   Mostra os comites realizados para o arquivo sitado
+
+$git help    Mostra uma ajuda geral  $git help -a   Mostra ajuda mais especifica
+$git help git -config   Abre no browse a documentação especifica do comando; Pode ser aberto o caminho do browse no explorer e ver todos os comandos
+
+$git show [nome do commit]  Faça o git log e copie os 4 primeiroselementos do commit
+
+$git diff 	Para verificar todas as alterações realizadas ou $git diff <nome do arquivo>  verifica as alterações do arquivo especificado
+$git diff --staged  Mostra os arquivos modificados mas não comitados
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+  
+
