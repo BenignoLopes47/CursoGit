@@ -1,4 +1,4 @@
-ruimport flet as ft
+import flet as ft
 
 name = "Custom text styles"
 
